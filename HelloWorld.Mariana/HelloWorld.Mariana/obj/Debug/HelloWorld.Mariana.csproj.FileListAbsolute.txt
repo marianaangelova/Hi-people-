@@ -1,0 +1,9 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\bin\Debug\HelloWorld.Mariana.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\obj\Debug\HelloWorld.Mariana.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\bin\Debug\HelloWorld.Mariana.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\bin\Debug\HelloWorld.Mariana.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\obj\Debug\HelloWorld.Mariana.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HelloWorld.Mariana\HelloWorld.Mariana\obj\Debug\HelloWorld.Mariana.pdb
+D:\github\Hi-people-\HelloWorld.Mariana\HelloWorld.Mariana\bin\Debug\HelloWorld.Mariana.exe.config
+D:\github\Hi-people-\HelloWorld.Mariana\HelloWorld.Mariana\obj\Debug\HelloWorld.Mariana.exe
+D:\github\Hi-people-\HelloWorld.Mariana\HelloWorld.Mariana\obj\Debug\HelloWorld.Mariana.pdb
