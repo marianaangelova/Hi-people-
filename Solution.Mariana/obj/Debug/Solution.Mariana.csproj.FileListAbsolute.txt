@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\bin\Debug\Solution.Mariana.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\bin\Debug\Solution.Mariana.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\bin\Debug\Solution.Mariana.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\obj\Debug\Solution.Mariana.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\obj\Debug\Solution.Mariana.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Solution.Mariana\obj\Debug\Solution.Mariana.pdb

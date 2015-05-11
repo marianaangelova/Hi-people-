@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\bin\Debug\Задача3DeckOfCards.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\obj\Debug\Задача3DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\bin\Debug\Задача3DeckOfCards.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\bin\Debug\Задача3DeckOfCards.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\obj\Debug\Задача3DeckOfCards.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача3DeckOfCards\obj\Debug\Задача3DeckOfCards.pdb

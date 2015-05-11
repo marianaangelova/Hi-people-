@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача2б\bin\Debug\Задача2б.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача2б\bin\Debug\Задача2б.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача2б\bin\Debug\Задача2б.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача2б\obj\Debug\Задача2б.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача2б\obj\Debug\Задача2б.pdb

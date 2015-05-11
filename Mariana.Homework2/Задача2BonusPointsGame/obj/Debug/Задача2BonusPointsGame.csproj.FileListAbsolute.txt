@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\bin\Debug\Задача2BonusPointsGame.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\bin\Debug\Задача2BonusPointsGame.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\bin\Debug\Задача2BonusPointsGame.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\obj\Debug\Задача2BonusPointsGame.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\obj\Debug\Задача2BonusPointsGame.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Mariana.Homework2\Задача2BonusPointsGame\obj\Debug\Задача2BonusPointsGame.csprojResolveAssemblyReference.cache

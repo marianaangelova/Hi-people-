@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\bin\Debug\Задача1Switch.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\bin\Debug\Задача1Switch.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\bin\Debug\Задача1Switch.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\obj\Debug\Задача1Switch.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\obj\Debug\Задача1Switch.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Mariana.Homework2\Задача1Switch\obj\Debug\Задача1Switch.pdb

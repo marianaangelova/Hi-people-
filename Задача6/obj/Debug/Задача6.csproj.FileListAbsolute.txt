@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\bin\Debug\Задача6.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\bin\Debug\Задача6.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\bin\Debug\Задача6.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\obj\Debug\Задача6.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\obj\Debug\Задача6.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача6\obj\Debug\Задача6.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\bin\Debug\Деление по модул.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\bin\Debug\Деление по модул.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\bin\Debug\Деление по модул.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\obj\Debug\Деление по модул.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\obj\Debug\Деление по модул.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Деление по модул\obj\Debug\Деление по модул.pdb

@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\bin\Debug\Задача 2.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\bin\Debug\Задача 2.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\bin\Debug\Задача 2.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\obj\Debug\Задача 2.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\obj\Debug\Задача 2.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Solution.Mariana\Задача 2\obj\Debug\Задача 2.csprojResolveAssemblyReference.cache

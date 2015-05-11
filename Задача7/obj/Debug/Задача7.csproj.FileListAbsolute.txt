@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача7\bin\Debug\Задача7.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача7\bin\Debug\Задача7.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача7\bin\Debug\Задача7.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача7\obj\Debug\Задача7.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Задача7\obj\Debug\Задача7.pdb

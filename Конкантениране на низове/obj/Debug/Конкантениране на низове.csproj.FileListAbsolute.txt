@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Конкантениране на низове\bin\Debug\Конкантениране на низове.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Конкантениране на низове\bin\Debug\Конкантениране на низове.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Конкантениране на низове\bin\Debug\Конкантениране на низове.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Конкантениране на низове\obj\Debug\Конкантениране на низове.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Solution.Mariana\Конкантениране на низове\obj\Debug\Конкантениране на низове.pdb
