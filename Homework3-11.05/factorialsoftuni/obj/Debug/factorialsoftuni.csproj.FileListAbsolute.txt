@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\factorialsoftuni\bin\Debug\factorialsoftuni.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\factorialsoftuni\bin\Debug\factorialsoftuni.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\factorialsoftuni\bin\Debug\factorialsoftuni.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\factorialsoftuni\obj\Debug\factorialsoftuni.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\factorialsoftuni\obj\Debug\factorialsoftuni.pdb

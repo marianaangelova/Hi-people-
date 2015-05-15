@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\bin\Debug\1ваЗадача.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\bin\Debug\1ваЗадача.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\bin\Debug\1ваЗадача.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\obj\Debug\1ваЗадача.exe
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\obj\Debug\1ваЗадача.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\Homework3-11.05\1ваЗадача\obj\Debug\1ваЗадача.csprojResolveAssemblyReference.cache

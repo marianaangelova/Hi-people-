@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача5\bin\Debug\Задача5.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача5\bin\Debug\Задача5.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача5\bin\Debug\Задача5.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача5\obj\Debug\Задача5.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача5\obj\Debug\Задача5.pdb

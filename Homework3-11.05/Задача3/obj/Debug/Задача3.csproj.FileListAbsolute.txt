@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\bin\Debug\Задача3.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\bin\Debug\Задача3.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\bin\Debug\Задача3.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\obj\Debug\Задача3.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\obj\Debug\Задача3.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\Homework3-11.05\Задача3\obj\Debug\Задача3.csprojResolveAssemblyReference.cache
