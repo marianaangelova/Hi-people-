@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\HomeworkArrays\bin\Debug\HomeworkArrays.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\HomeworkArrays\bin\Debug\HomeworkArrays.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.pdb

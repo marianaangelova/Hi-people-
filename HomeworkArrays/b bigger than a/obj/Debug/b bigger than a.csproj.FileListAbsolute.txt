@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\b bigger than a\bin\Debug\b bigger than a.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\b bigger than a\bin\Debug\b bigger than a.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\b bigger than a\bin\Debug\b bigger than a.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\b bigger than a\obj\Debug\b bigger than a.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\b bigger than a\obj\Debug\b bigger than a.pdb

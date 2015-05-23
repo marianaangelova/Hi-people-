@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\bin\Debug\5X6Matrix.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\obj\Debug\4x4Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\bin\Debug\5X6Matrix.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\bin\Debug\5X6Matrix.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\obj\Debug\5X6Matrix.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkArrays\5X6Matrix\obj\Debug\5X6Matrix.pdb

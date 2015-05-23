@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\elementhXXX10\bin\Debug\elementhXXX10.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\elementhXXX10\bin\Debug\elementhXXX10.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\elementhXXX10\bin\Debug\elementhXXX10.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\elementhXXX10\obj\Debug\elementhXXX10.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\elementhXXX10\obj\Debug\elementhXXX10.pdb

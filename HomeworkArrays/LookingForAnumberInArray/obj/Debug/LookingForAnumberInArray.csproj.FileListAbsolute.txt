@@ -1,0 +1,4 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\LookingForAnumberInArray\bin\Debug\LookingForAnumberInArray.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\LookingForAnumberInArray\bin\Debug\LookingForAnumberInArray.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\LookingForAnumberInArray\obj\Debug\LookingForAnumberInArray.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeworkArrays\LookingForAnumberInArray\obj\Debug\LookingForAnumberInArray.pdb
